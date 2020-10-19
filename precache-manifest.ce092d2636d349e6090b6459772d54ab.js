@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/SPA_week05_comp3104_lab_exec/static/js/2.206892ec.chunk.js"
   },
   {
-    "revision": "87b11df0a527867f8155d356e0c454c8",
+    "revision": "3c18f6fa38debacd02f75420de57139e",
     "url": "/SPA_week05_comp3104_lab_exec/index.html"
   }
 ];
